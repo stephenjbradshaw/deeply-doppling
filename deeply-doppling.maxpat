@@ -8287,7 +8287,7 @@
 					"presentation" : 1,
 					"presentation_linecount" : 3,
 					"presentation_rect" : [ 982.17273932107264, 678.0, 182.278895433291041, 47.0 ],
-					"text" : "v0.9.8\nSoftware: Stephen Bradshaw\nstephen.j.bradshaw@gmail.com"
+					"text" : "v0.9.8\nSoftware: Stephen Bradshaw\nhello@stephenbradshaw.dev"
 				}
 
 			}
