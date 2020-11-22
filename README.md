@@ -24,7 +24,7 @@ For future versions of the piece, the patch could be rewritten as a web applicat
 
 ## Prerequisites
 
-To run or edit : [Max 8](https://cycling74.com/downloads)
+To run or edit `deeply-doppling.maxpat`: [Max 8](https://cycling74.com/downloads)
 
 ## Author
 
