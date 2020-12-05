@@ -4831,7 +4831,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 222.75, 99.023315000000025, 83.0, 22.0 ],
-					"text" : "loadmess 440"
+					"text" : "loadmess 100"
 				}
 
 			}
@@ -6600,7 +6600,7 @@
 					"format" : 6,
 					"id" : "obj-131",
 					"maxclass" : "flonum",
-					"maximum" : 4.0,
+					"maximum" : 8.0,
 					"minimum" : 0.0,
 					"numdecimalplaces" : 2,
 					"numinlets" : 1,
@@ -8331,7 +8331,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1032.75, 95.023315000000025, 83.0, 22.0 ],
-					"text" : "loadmess 440"
+					"text" : "loadmess 100"
 				}
 
 			}
@@ -8356,8 +8356,8 @@
 					"format" : 6,
 					"id" : "obj-174",
 					"maxclass" : "flonum",
-					"maximum" : 20000.0,
-					"minimum" : 0.0,
+					"maximum" : 300.0,
+					"minimum" : 100.0,
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "bang" ],
@@ -8977,7 +8977,7 @@
 					"format" : 6,
 					"id" : "obj-234",
 					"maxclass" : "flonum",
-					"maximum" : 4.0,
+					"maximum" : 8.0,
 					"minimum" : 0.0,
 					"numdecimalplaces" : 2,
 					"numinlets" : 1,
@@ -9134,8 +9134,8 @@
 					"format" : 6,
 					"id" : "obj-263",
 					"maxclass" : "flonum",
-					"maximum" : 20000.0,
-					"minimum" : 0.0,
+					"maximum" : 300.0,
+					"minimum" : 100.0,
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "bang" ],
